@@ -1,0 +1,16 @@
+Gender,Married,Dependents,LoanAmount,Loan_Amount_Term,Credit_History,Loan_Status
+Male,Yes,0,100,360,1.0,Y
+Female,,1,200,360,1.0,N
+Male,Yes,,300,360,0.0,Y
+Male,No,,400,360,1.0,Y
+Female,Yes,0,,,1.0,Y
+Male,Yes,3+,600,,0.0,N
+Female,Yes,2,700,,1.0,Y
+Male,No,1,800,360,,N
+Female,Yes,2,900,360,,Y
+Male,Yes,0,1000,360,,N
+Male,No,3+,1100,360,1.0,
+Female,No,0,1200,360,1.0,
+Male,Yes,1,1300,360,0.0,
+Female,No,2,,360,1.0,
+Male,Yes,,,360,1.0,N
